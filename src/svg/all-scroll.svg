@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="all-scroll.svg"
+   id="svg31"
+   viewBox="0 0 32 32"
+   version="1.1"
+   height="32"
+   width="32">
+  <sodipodi:namedview
+     inkscape:current-layer="svg31"
+     inkscape:window-maximized="1"
+     inkscape:window-y="36"
+     inkscape:window-x="0"
+     inkscape:cy="14.27085"
+     inkscape:cx="-1.0821554"
+     inkscape:zoom="16"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-nodes="true"
+     showgrid="true"
+     id="namedview33"
+     inkscape:window-height="932"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#c8c8c8">
+    <inkscape:grid
+       id="grid858"
+       type="xygrid" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs7">
+    <filter
+       color-interpolation-filters="sRGB"
+       height="1.24"
+       width="1.24"
+       y="-.12"
+       x="-.12"
+       id="filter876-3">
+      <feGaussianBlur
+         id="feGaussianBlur4"
+         stdDeviation="1.1000633" />
+    </filter>
+    <filter
+       height="1.2160042"
+       y="-0.10800212"
+       width="1.2159958"
+       x="-0.10799788"
+       id="filter1033"
+       style="color-interpolation-filters:sRGB"
+       inkscape:collect="always">
+      <feGaussianBlur
+         id="feGaussianBlur1035"
+         stdDeviation="0.98105267"
+         inkscape:collect="always" />
+    </filter>
+  </defs>
+  <g
+     transform="translate(-46.000175)"
+     id="g1057">
+    <g
+       id="g1031"
+       style="opacity:0.25;fill:#000000;fill-opacity:1;filter:url(#filter1033)">
+      <path
+         id="path1013"
+         d="m 62.000096,25.90708 -3.752807,-5.265465 h 7.505615 z"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.28323px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.28323px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 51.09292,14.999999 5.265465,-3.752806 v 7.505614 z"
+         id="path1015" />
+      <path
+         id="path1017"
+         d="m 72.894518,14.999999 -5.265465,-3.752806 v 7.505614 z"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.28323px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.28323px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 62.000096,4.106337 -3.752807,5.265465 h 7.505615 z"
+         id="path1019" />
+      <path
+         d="m 62.000175,5 -3,4 h 6 z m -6,7 -4,3 4,3 z m 12,0 v 6 l 4,-3 z m -9,9 3,4 3,-4 z"
+         fill="#ffffff"
+         stroke-width="1.4142"
+         id="path1021"
+         style="fill:#000000;fill-opacity:1" />
+      <rect
+         x="56.000175"
+         y="13"
+         width="12"
+         height="4"
+         ry="0"
+         fill="#151515"
+         id="rect1023"
+         style="fill:#000000;fill-opacity:1" />
+      <rect
+         transform="rotate(-90)"
+         x="-21"
+         y="60.000175"
+         width="12"
+         height="4"
+         ry="0"
+         fill="#151515"
+         id="rect1025"
+         style="fill:#000000;fill-opacity:1" />
+      <rect
+         x="56.000175"
+         y="14"
+         width="12"
+         height="2"
+         ry="0"
+         fill="#ffffff"
+         id="rect1027"
+         style="fill:#000000;fill-opacity:1" />
+      <rect
+         transform="rotate(-90)"
+         x="-21"
+         y="61.000175"
+         width="12"
+         height="2"
+         ry="0"
+         fill="#ffffff"
+         id="rect1029"
+         style="fill:#000000;fill-opacity:1" />
+    </g>
+    <g
+       id="g1011">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.28323px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 62.000096,25.90708 -3.752807,-5.265465 h 7.505615 z"
+         id="path968" />
+      <path
+         id="path966"
+         d="m 51.09292,14.999999 5.265465,-3.752806 v 7.505614 z"
+         style="opacity:1;fill:none;stroke:#000000;stroke-width:1.28323px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="opacity:1;fill:none;stroke:#000000;stroke-width:1.28323px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 72.894518,14.999999 -5.265465,-3.752806 v 7.505614 z"
+         id="path964" />
+      <path
+         id="path962"
+         d="m 62.000096,4.106337 -3.752807,5.265465 h 7.505615 z"
+         style="fill:none;stroke:#000000;stroke-width:1.28323px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         id="path940"
+         stroke-width="1.4142"
+         fill="#ffffff"
+         d="m 62.000175,5 -3,4 h 6 z m -6,7 -4,3 4,3 z m 12,0 v 6 l 4,-3 z m -9,9 3,4 3,-4 z" />
+      <rect
+         id="rect942"
+         fill="#151515"
+         ry="0"
+         height="4"
+         width="12"
+         y="13"
+         x="56.000175" />
+      <rect
+         id="rect944"
+         fill="#151515"
+         ry="0"
+         height="4"
+         width="12"
+         y="60.000175"
+         x="-21"
+         transform="rotate(-90)" />
+      <rect
+         id="rect946"
+         fill="#ffffff"
+         ry="0"
+         height="2"
+         width="12"
+         y="14"
+         x="56.000175" />
+      <rect
+         id="rect948"
+         fill="#ffffff"
+         ry="0"
+         height="2"
+         width="12"
+         y="61.000175"
+         x="-21"
+         transform="rotate(-90)" />
+    </g>
+  </g>
+</svg>

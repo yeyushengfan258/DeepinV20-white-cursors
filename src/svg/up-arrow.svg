@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="up-arrow.svg"
+   id="svg19"
+   viewBox="0 0 32 32"
+   version="1.1"
+   height="32"
+   width="32">
+  <metadata
+     id="metadata23">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:current-layer="svg19"
+     inkscape:window-maximized="1"
+     inkscape:window-y="36"
+     inkscape:window-x="0"
+     inkscape:cy="14.380706"
+     inkscape:cx="19.4435"
+     inkscape:zoom="23.84375"
+     showgrid="true"
+     id="namedview21"
+     inkscape:window-height="932"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#c8c8c8">
+    <inkscape:grid
+       id="grid848"
+       type="xygrid" />
+  </sodipodi:namedview>
+  <defs
+     id="defs5">
+    <filter
+       color-interpolation-filters="sRGB"
+       height="1.242"
+       width="1.238"
+       y="-.12101"
+       x="-.11901"
+       id="a">
+      <feGaussianBlur
+         id="feGaussianBlur2"
+         stdDeviation="0.73740225" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       height="1.242"
+       width="1.238"
+       y="-.12101"
+       x="-.11901"
+       id="a-6">
+      <feGaussianBlur
+         id="feGaussianBlur2-7"
+         stdDeviation="0.73740225" />
+    </filter>
+    <filter
+       height="1.2233945"
+       y="-0.11169725"
+       width="1.2090793"
+       x="-0.10453967"
+       id="filter1062"
+       style="color-interpolation-filters:sRGB"
+       inkscape:collect="always">
+      <feGaussianBlur
+         id="feGaussianBlur1064"
+         stdDeviation="0.6797461"
+         inkscape:collect="always" />
+    </filter>
+  </defs>
+  <g
+     transform="matrix(1,0,0,-1,3.0067684e-7,30)"
+     id="g1074">
+    <path
+       id="rect1052"
+       style="opacity:0.25;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.8451;stroke-linecap:round;filter:url(#filter1062)"
+       d="M 15,7.0000001 V 14 l -3,-3 -2.828125,2.828125 7.777344,7.777344 0.02539,-0.02539 L 17,21.605469 24.777344,13.828125 21.949219,11 19,13.949219 V 7.0000001 Z" />
+    <rect
+       y="7.8291025"
+       x="14"
+       height="12"
+       width="4"
+       id="rect894"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.8451;stroke-linecap:round" />
+    <rect
+       transform="matrix(-0.70710678,-0.70710678,-0.70710678,0.70710678,0,0)"
+       y="-6.4492683"
+       x="-27.178148"
+       height="11"
+       width="4"
+       id="rect892"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.76654;stroke-linecap:round" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.76654;stroke-linecap:round"
+       id="rect890"
+       width="4"
+       height="11"
+       x="-4.5862656"
+       y="16.142614"
+       transform="rotate(-45)" />
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:1.191;stroke-linecap:round"
+       id="rect880"
+       width="2"
+       height="10"
+       x="15"
+       y="8.8291025" />
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:1.12988;stroke-linecap:round"
+       id="rect886"
+       width="2"
+       height="9"
+       x="-3.5448186"
+       y="17.153669"
+       transform="rotate(-45)" />
+    <rect
+       transform="matrix(-0.70710678,-0.70710678,-0.70710678,0.70710678,0,0)"
+       y="-5.4644661"
+       x="-26.162951"
+       height="9"
+       width="2"
+       id="rect888"
+       style="fill:#ffffff;stroke:none;stroke-width:1.12988;stroke-linecap:round" />
+    <rect
+       transform="rotate(-90)"
+       x="-27.959999"
+       y="4"
+       width="24"
+       height="24"
+       fill="none"
+       opacity="0.2"
+       id="rect15" />
+  </g>
+</svg>
